@@ -1,4 +1,4 @@
-<h1>Bonjour, Je suis Fabien MAMY HARIJAONA <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Bonjour, Je suis Fabien MAMY HARIJAONA <br/><a href="https://github.com/joshmadakor1">Développeur Full Stack Java / Angular </a>, <a href="https://www.linkedin.com/in/fharijaona/">Web Scraper</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -41,3 +41,7 @@
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ²²
+
+
+
+
