@@ -4,7 +4,7 @@
 
 - <b>Angular</b>
   - [Carte de crédit avec reactive Forms ](https://github.com/fabien-har/AppCards---Angular)
-  - [Password Generator] (https://github.com/fabien-har/Generator-Password-Angular)
+  - [Password Generator](https://github.com/fabien-har/Generator-Password-Angular)
 - <b>Java, Spring Boot, Thymeleaf</b>
   - [Application Jobportal](https://github.com/fabien-har/Jobportal-Java-Spring-Thymeleaf)
 - <b>PowerShell</b>
@@ -42,6 +42,9 @@
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ²²
+
+
+
 
 
 
