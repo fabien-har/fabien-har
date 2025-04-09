@@ -11,7 +11,7 @@
 
 
 
-<h2>Connect with me </h2>
+<h2>👨‍💻 Contacts:</h2>
 <ul>
 <li><a href="https://x.com/fabyharijaona" rel="nofollow"> Twitter/X </a> </li>
 <li><a href="https://www.linkedin.com/in/fabien-mamy-harijaona-692257358/" rel="nofollow"> Linkedin</a> </li>
