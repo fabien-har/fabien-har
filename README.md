@@ -5,8 +5,11 @@
 - <b>Angular</b>
   - [Carte de crédit avec reactive Forms ](https://github.com/fabien-har/AppCards---Angular)
   - [Password Generator](https://github.com/fabien-har/Generator-Password-Angular)
-- <b>Java, Spring Boot, Thymeleaf</b>
+- <b>Spring Boot, Thymeleaf</b>
   - [Application Jobportal](https://github.com/fabien-har/Jobportal-Java-Spring-Thymeleaf)
+ 
+  - <b>Java</b>
+- [Application Email](https://github.com/fabien-har/EmailAdmin)
  
 
 
