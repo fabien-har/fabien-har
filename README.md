@@ -1,4 +1,4 @@
-<h1>Bonjour, Je suis Fabien MAMY HARIJAONA <br/><a href="https://github.com/joshmadakor1">Développeur Full Stack Java | Angular | </a>, <a href="https://www.linkedin.com/in/fharijaona/">Web Scraper</a></h1>
+<h1>Bonjour, Je suis Fabien MAMY HARIJAONA <br/><a href="https://github.com/joshmadakor1">Développeur Full Stack Java | Angular | </a> <a href="https://www.linkedin.com/in/fharijaona/">Web Scraper</a></h1>
 
 <h2>👨‍💻 Projets:</h2>
 
