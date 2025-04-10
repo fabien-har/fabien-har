@@ -9,6 +9,7 @@
   - [Application Jobportal](https://github.com/fabien-har/Jobportal-Java-Spring-Thymeleaf)
 - <b>Java</b>
   - [Application Email](https://github.com/fabien-har/EmailAdmin)
+  - [BankApp](https://github.com/fabien-har/BankApplication)
  
 
 
